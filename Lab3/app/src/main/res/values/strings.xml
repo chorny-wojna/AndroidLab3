@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RatingImages</string>
+    <string name="edit_message">Edit query</string>
+    <string name="button_send">Go!</string>
+
+</resources>
